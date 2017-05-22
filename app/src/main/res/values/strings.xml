@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string-array name="dominos">
+        <item>Pizza Zone</item>
+        <item>Pizza hut</item>
+        <item>Pizza Zone</item>
+        <item>Pizza hut</item>
+        <item>Pizza Zone</item>
+        <item>Pizza hut</item>
+        <item>Pizza Zone</item>
+        <item>Pizza hut</item>
+        <item>Pizza Zone</item>
+        <item>Pizza hut</item>
+
+    </string-array>
+    <string-array name="address">
+        <item>ContactUs 8000708986</item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs 7898483210 </item>
+        <item>ContactUs 8000708986</item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs 7898483210 </item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs 7898483210 </item>
+        <item>ContactUs  7898423622</item>
+    </string-array>
+
+</resources>
